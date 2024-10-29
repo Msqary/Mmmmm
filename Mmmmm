@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="محمد قاري - متخصص في عمل لوحات ذكاء الأعمال وصفحات Excel لتبسيط الأعمال">
+    <title>محمد قاري</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        header {
+            background-color: #f0f0f0;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #444;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        .contact-info {
+            margin: 20px 0;
+        }
+        .contact-info a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            margin-top: 20px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>محمد قاري</h1>
+        <p>متخصص في عمل لوحات ذكاء الأعمال وصفحات Excel لتبسيط الأعمال</p>
+    </header>
+
+    <section class="contact-info">
+        <p>للتواصل:</p>
+        <p>الهاتف: <a href="tel:0544443380">0544443380</a></p>
+        <p>تويتر: <a href="https://twitter.com/mohammedqary" target="_blank">@mohammedqary</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 محمد قاري</p>
+    </footer>
+</body>
+</html>
